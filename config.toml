@@ -64,7 +64,6 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Teregram]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
 uptodown-dlurl =  "https://telegram.en.uptodown.com/android"
 build-mode = "both"
 version = "auto"
